@@ -66,8 +66,4 @@ public class PdfParse {
         }
 
     }
-
-
-    //working regtex (?s)(\d+\s[\+\-0]\s\n{2})(.*?)(\s\n\n\s\n\n)
-    //Java matcherer, pattern, mather.find(this will find the )
 }
